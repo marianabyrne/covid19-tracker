@@ -44,8 +44,8 @@ app.layout = html.Div([
     Output('page-content', 'children'),
     [Input('url', 'pathname')])
 def display_page(pathname):
-    if pathname == 'https://covid19-policy-response.herokuapp.com/':
-        return 'https://covid19-policy-response.herokuapp.com/'
+    if pathname == 'https://covid19-policy-responses.herokuapp.com/':
+        return 'https://covid19-policy-responses.herokuapp.com/'
 #     else:
 #         return PolResponse()
 
