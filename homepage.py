@@ -191,7 +191,7 @@ body = html.Div([ # External row
 def Homepage():
     layout = html.Div([
         header,
-#         nav,
+        nav,
         modal,
         body
     ])
