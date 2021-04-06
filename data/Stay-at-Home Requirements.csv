@@ -1,0 +1,174 @@
+,Entity,Stay-at-Home Requirements,Day,continent
+0,Albania,Required (except essentials),2021-01-01,Europe
+1,Algeria,Required (except essentials),2021-01-01,Africa
+2,Andorra,No measures,2021-01-01,Europe
+3,Angola,Recommended,2021-01-01,Africa
+4,Argentina,Required (except essentials),2021-01-01,South America
+5,Australia,No measures,2021-01-11,Oceania
+6,Austria,Required (except essentials),2021-01-01,Europe
+7,Azerbaijan,Recommended,2021-02-04,Asia
+8,Bahamas,Required (except essentials),2021-01-01,North America
+9,Bahrain,Recommended,2021-01-01,Asia
+10,Bangladesh,Required (few exceptions),2021-01-26,Asia
+11,Barbados,Required (except essentials),2021-01-01,North America
+12,Belarus,No measures,2021-01-01,Europe
+13,Belgium,Required (except essentials),2021-01-01,Europe
+14,Belize,Required (except essentials),2021-01-26,North America
+15,Benin,No measures,2021-01-01,Africa
+16,Bermuda,Required (except essentials),2021-01-01,North America
+17,Bhutan,Recommended,2021-02-01,Asia
+18,Bolivia,No measures,2021-01-05,South America
+19,Bosnia and Herzegovina,Required (except essentials),2021-01-01,Europe
+20,Botswana,Required (except essentials),2021-01-01,Africa
+21,Brazil,Required (except essentials),2021-01-01,South America
+22,Brunei,No measures,2021-01-01,Asia
+23,Bulgaria,No measures,2021-01-01,Europe
+24,Burkina Faso,No measures,2021-01-01,Africa
+25,Burundi,No measures,2021-01-01,Africa
+26,Cambodia,Recommended,2021-01-01,Asia
+27,Cameroon,No measures,2021-01-01,Africa
+28,Canada,Required (except essentials),2021-01-09,North America
+29,Central African Republic,Recommended,2021-02-23,Africa
+30,Chad,Required (except essentials),2021-01-04,Africa
+31,Chile,Required (few exceptions),2021-01-01,South America
+32,China,Recommended,2021-02-22,Asia
+33,Colombia,Required (few exceptions),2021-01-07,South America
+34,Congo,Required (except essentials),2021-01-01,Africa
+35,Costa Rica,Recommended,2021-01-01,North America
+36,Cote d'Ivoire,Recommended,2021-01-01,Africa
+37,Croatia,No measures,2021-01-01,Europe
+38,Cuba,Required (few exceptions),2021-02-05,North America
+39,Cyprus,Required (except essentials),2021-01-10,Europe
+40,Czechia,Required (except essentials),2021-01-01,Europe
+41,Democratic Republic of Congo,Recommended,2021-02-16,Africa
+42,Denmark,Recommended,2021-01-01,Europe
+43,Djibouti,No measures,2021-01-01,Africa
+44,Dominican Republic,Required (except essentials),2021-01-01,North America
+45,Ecuador,Recommended,2021-01-04,South America
+46,Egypt,Recommended,2021-01-01,Africa
+47,El Salvador,No measures,2021-03-09,North America
+48,Eritrea,Required (except essentials),2021-01-01,Africa
+49,Estonia,Recommended,2021-03-11,Europe
+50,Eswatini,Recommended,2021-01-01,Africa
+51,Ethiopia,No measures,2021-01-01,Africa
+52,Faeroe Islands,Recommended,2021-02-16,Europe
+53,Fiji,Required (except essentials),2021-01-01,Oceania
+54,Finland,Recommended,2021-01-01,Europe
+55,France,Required (except essentials),2021-01-01,Europe
+56,Gabon,Required (except essentials),2021-01-05,Africa
+57,Gambia,No measures,2021-01-01,Africa
+58,Georgia,Required (except essentials),2021-01-18,Asia
+59,Germany,Required (except essentials),2021-01-01,Europe
+60,Ghana,Recommended,2021-02-23,Africa
+61,Greece,Required (few exceptions),2021-02-28,Europe
+62,Greenland,No measures,2021-01-05,North America
+63,Guatemala,No measures,2021-01-01,North America
+64,Guinea,Required (except essentials),2021-01-01,Africa
+65,Guyana,Required (except essentials),2021-01-01,South America
+66,Haiti,Required (except essentials),2021-01-13,North America
+67,Honduras,Required (except essentials),2021-01-01,North America
+68,Hong Kong,Recommended,2021-01-01,Asia
+69,Hungary,Required (except essentials),2021-01-01,Europe
+70,Iceland,No measures,2021-01-01,Europe
+71,India,Required (few exceptions),2021-01-26,Asia
+72,Indonesia,Required (except essentials),2021-01-31,Asia
+73,Iran,Required (except essentials),2021-01-01,Asia
+74,Iraq,Required (except essentials),2021-02-18,Asia
+75,Ireland,Required (except essentials),2021-01-01,Europe
+76,Israel,No measures,2021-02-07,Asia
+77,Italy,Required (except essentials),2021-01-01,Europe
+78,Jamaica,Required (except essentials),2021-01-01,North America
+79,Japan,Recommended,2021-01-01,Asia
+80,Jordan,Required (except essentials),2021-01-01,Asia
+81,Kazakhstan,No measures,2021-02-16,Asia
+82,Kenya,Required (except essentials),2021-01-01,Africa
+83,Kosovo,Recommended,2021-03-12,Europe
+84,Kuwait,Required (except essentials),2021-03-07,Asia
+85,Kyrgyzstan,No measures,2021-01-04,Asia
+86,Laos,No measures,2021-01-01,Asia
+87,Latvia,No measures,2021-01-05,Europe
+88,Lebanon,Required (except essentials),2021-01-01,Asia
+89,Lesotho,Required (except essentials),2021-01-06,Africa
+90,Liberia,No measures,2021-01-01,Africa
+91,Libya,Required (except essentials),2021-01-01,Africa
+92,Lithuania,Required (except essentials),2021-01-01,Europe
+93,Luxembourg,Required (except essentials),2021-01-20,Europe
+94,Macao,No measures,2021-01-01,Asia
+95,Madagascar,No measures,2021-01-01,Africa
+96,Malawi,Required (except essentials),2021-03-09,Africa
+97,Malaysia,Required (except essentials),2021-01-01,Asia
+98,Mali,Recommended,2021-03-02,Africa
+99,Malta,No measures,2021-01-01,Europe
+100,Mauritania,Recommended,2021-03-02,Africa
+101,Mauritius,Recommended,2021-03-10,Africa
+102,Mexico,Recommended,2021-03-02,North America
+103,Moldova,Required (except essentials),2021-03-05,Europe
+104,Monaco,Required (except essentials),2021-01-01,Europe
+105,Mongolia,Recommended,2021-02-23,Asia
+106,Morocco,Required (except essentials),2021-01-01,Africa
+107,Mozambique,Required (few exceptions),2021-01-15,Africa
+108,Myanmar,Required (except essentials),2021-01-01,Asia
+109,Namibia,Recommended,2021-01-19,Africa
+110,Nepal,No measures,2021-03-02,Asia
+111,Netherlands,Required (except essentials),2021-01-23,Europe
+112,New Zealand,No measures,2021-01-01,Oceania
+113,Nicaragua,No measures,2021-01-01,North America
+114,Niger,No measures,2021-01-01,Africa
+115,Nigeria,Required (except essentials),2021-01-01,Africa
+116,Norway,Recommended,2021-01-01,Europe
+117,Oman,Required (except essentials),2021-02-12,Asia
+118,Pakistan,Required (few exceptions),2021-01-01,Asia
+119,Palestine,Required (few exceptions),2021-01-01,Asia
+120,Panama,Required (except essentials),2021-01-04,North America
+121,Papua New Guinea,Required (except essentials),2021-01-03,Oceania
+122,Paraguay,Required (except essentials),2021-01-01,South America
+123,Peru,Required (few exceptions),2021-01-27,South America
+124,Philippines,Required (except essentials),2021-01-01,Asia
+125,Poland,Recommended,2021-01-01,Europe
+126,Portugal,Required (except essentials),2021-01-01,Europe
+127,Qatar,Recommended,2021-01-01,Asia
+128,Romania,Required (except essentials),2021-01-01,Europe
+129,Russia,Recommended,2021-01-01,Europe
+130,Rwanda,Required (except essentials),2021-01-01,Africa
+131,San Marino,Required (except essentials),2021-01-01,Europe
+132,Saudi Arabia,No measures,2021-01-01,Asia
+133,Senegal,Required (except essentials),2021-01-06,Africa
+134,Serbia,Recommended,2021-01-01,Europe
+135,Seychelles,Recommended,2021-03-01,Africa
+136,Sierra Leone,Recommended,2021-01-21,Africa
+137,Singapore,Recommended,2021-01-01,Asia
+138,Slovakia,Required (except essentials),2021-01-01,Europe
+139,Slovenia,Required (except essentials),2021-02-14,Europe
+140,Solomon Islands,No measures,2021-01-01,Oceania
+141,Somalia,Recommended,2021-01-01,Africa
+142,South Africa,Required (except essentials),2021-01-01,Africa
+143,South Korea,Recommended,2021-01-01,Asia
+144,South Sudan,Required (except essentials),2021-02-03,Africa
+145,Spain,Required (except essentials),2021-01-01,Europe
+146,Sudan,No measures,2021-01-01,Africa
+147,Suriname,Required (except essentials),2021-01-01,South America
+148,Sweden,Recommended,2021-01-01,Europe
+149,Switzerland,Recommended,2021-01-01,Europe
+150,Syria,No measures,2021-02-02,Asia
+151,Taiwan,No measures,2021-01-01,Asia
+152,Tajikistan,No measures,2021-01-01,Asia
+153,Tanzania,No measures,2021-01-01,Africa
+154,Thailand,Recommended,2021-01-01,Asia
+155,Timor,Required (except essentials),2021-01-01,Asia
+156,Togo,Recommended,2021-03-01,Africa
+157,Trinidad and Tobago,No measures,2021-01-01,North America
+158,Tunisia,Required (except essentials),2021-01-01,Africa
+159,Turkey,Required (except essentials),2021-01-25,Asia
+160,Uganda,Required (except essentials),2021-01-01,Africa
+161,Ukraine,Recommended,2021-01-01,Europe
+162,United Arab Emirates,No measures,2021-01-01,Asia
+163,United Kingdom,Required (except essentials),2021-01-01,Europe
+164,United States,Recommended,2021-03-04,North America
+165,Uruguay,Recommended,2021-01-01,South America
+166,Uzbekistan,No measures,2021-01-04,Asia
+167,Vanuatu,No measures,2021-01-01,Oceania
+168,Venezuela,Required (except essentials),2021-01-01,South America
+169,Vietnam,Required (except essentials),2021-01-01,Asia
+170,Yemen,Required (except essentials),2021-01-01,Asia
+171,Zambia,No measures,2021-01-31,Africa
+172,Zimbabwe,No measures,2021-03-02,Africa

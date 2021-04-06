@@ -1,0 +1,207 @@
+,continent,Entity
+0,Africa,Algeria
+1,Africa,Angola
+2,Africa,Benin
+3,Africa,Botswana
+4,Africa,Burkina Faso
+5,Africa,Burundi
+6,Africa,Cameroon
+7,Africa,Cape Verde
+8,Africa,Central African Republic
+9,Africa,Chad
+10,Africa,Comoros
+11,Africa,Congo
+12,Africa,Cote d'Ivoire
+13,Africa,Democratic Republic of Congo
+14,Africa,Djibouti
+15,Africa,Egypt
+16,Africa,Equatorial Guinea
+17,Africa,Eritrea
+18,Africa,Eswatini
+19,Africa,Ethiopia
+20,Africa,Gabon
+21,Africa,Gambia
+22,Africa,Ghana
+23,Africa,Guinea
+24,Africa,Guinea-Bissau
+25,Africa,Kenya
+26,Africa,Lesotho
+27,Africa,Liberia
+28,Africa,Libya
+29,Africa,Madagascar
+30,Africa,Malawi
+31,Africa,Mali
+32,Africa,Mauritania
+33,Africa,Mauritius
+34,Africa,Morocco
+35,Africa,Mozambique
+36,Africa,Namibia
+37,Africa,Niger
+38,Africa,Nigeria
+39,Africa,Rwanda
+40,Africa,Saint Helena
+41,Africa,Sao Tome and Principe
+42,Africa,Senegal
+43,Africa,Seychelles
+44,Africa,Sierra Leone
+45,Africa,Somalia
+46,Africa,South Africa
+47,Africa,South Sudan
+48,Africa,Sudan
+49,Africa,Tanzania
+50,Africa,Togo
+51,Africa,Tunisia
+52,Africa,Uganda
+53,Africa,Zambia
+54,Africa,Zimbabwe
+55,Asia,Afghanistan
+56,Asia,Armenia
+57,Asia,Azerbaijan
+58,Asia,Bahrain
+59,Asia,Bangladesh
+60,Asia,Bhutan
+61,Asia,Brunei
+62,Asia,Cambodia
+63,Asia,China
+64,Asia,Georgia
+65,Asia,Hong Kong
+66,Asia,India
+67,Asia,Indonesia
+68,Asia,Iran
+69,Asia,Iraq
+70,Asia,Israel
+71,Asia,Japan
+72,Asia,Jordan
+73,Asia,Kazakhstan
+74,Asia,Kuwait
+75,Asia,Kyrgyzstan
+76,Asia,Laos
+77,Asia,Lebanon
+78,Asia,Macao
+79,Asia,Malaysia
+80,Asia,Maldives
+81,Asia,Mongolia
+82,Asia,Myanmar
+83,Asia,Nepal
+84,Asia,Northern Cyprus
+85,Asia,Oman
+86,Asia,Pakistan
+87,Asia,Palestine
+88,Asia,Philippines
+89,Asia,Qatar
+90,Asia,Saudi Arabia
+91,Asia,Singapore
+92,Asia,South Korea
+93,Asia,Sri Lanka
+94,Asia,Syria
+95,Asia,Taiwan
+96,Asia,Tajikistan
+97,Asia,Thailand
+98,Asia,Timor
+99,Asia,Turkey
+100,Asia,United Arab Emirates
+101,Asia,Uzbekistan
+102,Asia,Vietnam
+103,Asia,Yemen
+104,Europe,Albania
+105,Europe,Andorra
+106,Europe,Austria
+107,Europe,Belarus
+108,Europe,Belgium
+109,Europe,Bosnia and Herzegovina
+110,Europe,Bulgaria
+111,Europe,Croatia
+112,Europe,Cyprus
+113,Europe,Czechia
+114,Europe,Denmark
+115,Europe,Estonia
+116,Europe,Faeroe Islands
+117,Europe,Finland
+118,Europe,France
+119,Europe,Germany
+120,Europe,Gibraltar
+121,Europe,Greece
+122,Europe,Guernsey
+123,Europe,Hungary
+124,Europe,Iceland
+125,Europe,Ireland
+126,Europe,Isle of Man
+127,Europe,Italy
+128,Europe,Jersey
+129,Europe,Kosovo
+130,Europe,Latvia
+131,Europe,Liechtenstein
+132,Europe,Lithuania
+133,Europe,Luxembourg
+134,Europe,Malta
+135,Europe,Moldova
+136,Europe,Monaco
+137,Europe,Montenegro
+138,Europe,Netherlands
+139,Europe,North Macedonia
+140,Europe,Norway
+141,Europe,Poland
+142,Europe,Portugal
+143,Europe,Romania
+144,Europe,Russia
+145,Europe,San Marino
+146,Europe,Serbia
+147,Europe,Slovakia
+148,Europe,Slovenia
+149,Europe,Spain
+150,Europe,Sweden
+151,Europe,Switzerland
+152,Europe,Ukraine
+153,Europe,United Kingdom
+154,Europe,Vatican
+155,North America,Anguilla
+156,North America,Antigua and Barbuda
+157,North America,Bahamas
+158,North America,Barbados
+159,North America,Belize
+160,North America,Bermuda
+161,North America,Canada
+162,North America,Cayman Islands
+163,North America,Costa Rica
+164,North America,Cuba
+165,North America,Dominica
+166,North America,Dominican Republic
+167,North America,El Salvador
+168,North America,Greenland
+169,North America,Grenada
+170,North America,Guatemala
+171,North America,Haiti
+172,North America,Honduras
+173,North America,Jamaica
+174,North America,Mexico
+175,North America,Montserrat
+176,North America,Nicaragua
+177,North America,Panama
+178,North America,Saint Kitts and Nevis
+179,North America,Saint Lucia
+180,North America,Saint Vincent and the Grenadines
+181,North America,Trinidad and Tobago
+182,North America,Turks and Caicos Islands
+183,North America,United States
+184,Oceania,Australia
+185,Oceania,Fiji
+186,Oceania,Marshall Islands
+187,Oceania,Micronesia (country)
+188,Oceania,New Zealand
+189,Oceania,Papua New Guinea
+190,Oceania,Samoa
+191,Oceania,Solomon Islands
+192,Oceania,Vanuatu
+193,South America,Argentina
+194,South America,Bolivia
+195,South America,Brazil
+196,South America,Chile
+197,South America,Colombia
+198,South America,Ecuador
+199,South America,Falkland Islands
+200,South America,Guyana
+201,South America,Paraguay
+202,South America,Peru
+203,South America,Suriname
+204,South America,Uruguay
+205,South America,Venezuela

@@ -1,0 +1,174 @@
+,Entity,Use of Masks,Day,continent
+0,Albania,Required at all times,2021-01-01,Europe
+1,Algeria,Required in all public spaces,2021-01-01,Africa
+2,Andorra,Required in all public spaces,2021-01-01,Europe
+3,Angola,Required in all public spaces,2021-01-01,Africa
+4,Argentina,Required in all public spaces,2021-01-01,South America
+5,Australia,Required in some public spaces,2021-01-01,Oceania
+6,Austria,Required in all public spaces,2021-01-01,Europe
+7,Azerbaijan,Required at all times,2021-01-01,Asia
+8,Bahamas,Required in all public spaces,2021-01-01,North America
+9,Bahrain,Required in all public spaces,2021-01-01,Asia
+10,Bangladesh,Required at all times,2021-01-01,Asia
+11,Barbados,Required in all public spaces,2021-02-03,North America
+12,Belarus,Required in all public spaces,2021-01-01,Europe
+13,Belgium,Required in all public spaces,2021-01-01,Europe
+14,Belize,Required in all public spaces,2021-01-01,North America
+15,Benin,Required at all times,2021-01-01,Africa
+16,Bermuda,Required in some public spaces,2021-01-01,North America
+17,Bhutan,Required at all times,2021-01-01,Asia
+18,Bolivia,Required at all times,2021-01-01,South America
+19,Bosnia and Herzegovina,Required in all public spaces,2021-01-01,Europe
+20,Botswana,Required in all public spaces,2021-02-09,Africa
+21,Brazil,Required at all times,2021-01-01,South America
+22,Brunei,Required in some public spaces,2021-01-01,Asia
+23,Bulgaria,Required in all public spaces,2021-01-01,Europe
+24,Burkina Faso,Required in all public spaces,2021-01-01,Africa
+25,Burundi,Required in some public spaces,2021-02-16,Africa
+26,Cambodia,Required in all public spaces,2021-02-09,Asia
+27,Cameroon,Required in all public spaces,2021-01-01,Africa
+28,Canada,Required in all public spaces,2021-01-01,North America
+29,Central African Republic,Required in some public spaces,2021-01-01,Africa
+30,Chad,Required at all times,2021-01-01,Africa
+31,Chile,Required in some public spaces,2021-01-01,South America
+32,China,Required in some public spaces,2021-02-22,Asia
+33,Colombia,Recommended,2021-01-01,South America
+34,Congo,Required in all public spaces,2021-01-01,Africa
+35,Costa Rica,Required in all public spaces,2021-01-01,North America
+36,Cote d'Ivoire,Required at all times,2021-01-18,Africa
+37,Croatia,Required in all public spaces,2021-01-01,Europe
+38,Cuba,Required in all public spaces,2021-01-01,North America
+39,Cyprus,Required in all public spaces,2021-01-26,Europe
+40,Czechia,Required at all times,2021-01-01,Europe
+41,Democratic Republic of Congo,Required in all public spaces,2021-01-01,Africa
+42,Denmark,Required in some public spaces,2021-01-01,Europe
+43,Djibouti,Required in some public spaces,2021-01-01,Africa
+44,Dominican Republic,Required in all public spaces,2021-01-01,North America
+45,Ecuador,Required in all public spaces,2021-01-01,South America
+46,Egypt,Required at all times,2021-01-03,Africa
+47,El Salvador,Required at all times,2021-01-25,North America
+48,Eritrea,Required in some public spaces,2021-01-01,Africa
+49,Estonia,Required in some public spaces,2021-01-01,Europe
+50,Eswatini,Required at all times,2021-01-01,Africa
+51,Ethiopia,Required in all public spaces,2021-01-01,Africa
+52,Faeroe Islands,Required in some public spaces,2021-01-01,Europe
+53,Fiji,Required in some public spaces,2021-01-01,Oceania
+54,Finland,Recommended,2021-01-01,Europe
+55,France,Required at all times,2021-01-01,Europe
+56,Gabon,Required in all public spaces,2021-01-01,Africa
+57,Gambia,Required in all public spaces,2021-01-01,Africa
+58,Georgia,Required in all public spaces,2021-01-01,Asia
+59,Germany,Required in some public spaces,2021-01-01,Europe
+60,Ghana,Required at all times,2021-01-01,Africa
+61,Greece,Required at all times,2021-01-01,Europe
+62,Greenland,Required in some public spaces,2021-01-05,North America
+63,Guatemala,Required in all public spaces,2021-01-01,North America
+64,Guinea,Required in all public spaces,2021-01-01,Africa
+65,Guyana,Required in all public spaces,2021-01-01,South America
+66,Haiti,Required in all public spaces,2021-01-01,North America
+67,Honduras,Required in all public spaces,2021-01-01,North America
+68,Hong Kong,Required in some public spaces,2021-01-01,Asia
+69,Hungary,Required in all public spaces,2021-03-08,Europe
+70,Iceland,Required in some public spaces,2021-01-01,Europe
+71,India,Required at all times,2021-01-01,Asia
+72,Indonesia,Required at all times,2021-01-01,Asia
+73,Iran,Required in all public spaces,2021-01-12,Asia
+74,Iraq,Required in all public spaces,2021-01-23,Asia
+75,Ireland,Required in all public spaces,2021-01-01,Europe
+76,Israel,Required in all public spaces,2021-01-01,Asia
+77,Italy,Required at all times,2021-01-01,Europe
+78,Jamaica,Required in all public spaces,2021-01-01,North America
+79,Japan,Recommended,2021-01-01,Asia
+80,Jordan,Required in some public spaces,2021-03-09,Asia
+81,Kazakhstan,Required at all times,2021-02-02,Asia
+82,Kenya,Required in all public spaces,2021-01-01,Africa
+83,Kosovo,Required at all times,2021-01-01,Europe
+84,Kuwait,Required in all public spaces,2021-01-01,Asia
+85,Kyrgyzstan,Required in all public spaces,2021-01-01,Asia
+86,Laos,Required at all times,2021-01-01,Asia
+87,Latvia,Required in all public spaces,2021-01-01,Europe
+88,Lebanon,Required in all public spaces,2021-01-01,Asia
+89,Lesotho,Required at all times,2021-01-01,Africa
+90,Liberia,Required in all public spaces,2021-01-01,Africa
+91,Libya,Required in all public spaces,2021-01-01,Africa
+92,Lithuania,Required in some public spaces,2021-02-25,Europe
+93,Luxembourg,Required in some public spaces,2021-01-04,Europe
+94,Macao,Required in some public spaces,2021-01-01,Asia
+95,Madagascar,Required in all public spaces,2021-03-02,Africa
+96,Malawi,Required in all public spaces,2021-01-01,Africa
+97,Malaysia,Required in some public spaces,2021-01-01,Asia
+98,Mali,Required in all public spaces,2021-01-01,Africa
+99,Malta,Required at all times,2021-01-01,Europe
+100,Mauritania,Required in all public spaces,2021-01-01,Africa
+101,Mauritius,Required in all public spaces,2021-01-12,Africa
+102,Mexico,Required at all times,2021-01-01,North America
+103,Moldova,Required in all public spaces,2021-01-01,Europe
+104,Monaco,Required in all public spaces,2021-01-16,Europe
+105,Mongolia,Required in all public spaces,2021-01-01,Asia
+106,Morocco,Required in all public spaces,2021-01-01,Africa
+107,Mozambique,Required in all public spaces,2021-01-01,Africa
+108,Myanmar,Required at all times,2021-01-01,Asia
+109,Namibia,Required in all public spaces,2021-01-01,Africa
+110,Nepal,Required at all times,2021-01-01,Asia
+111,Netherlands,Required in some public spaces,2021-01-01,Europe
+112,New Zealand,Required in some public spaces,2021-01-01,Oceania
+113,Nicaragua,Required in some public spaces,2021-02-16,North America
+114,Niger,Required in some public spaces,2021-02-09,Africa
+115,Nigeria,Required in all public spaces,2021-01-01,Africa
+116,Norway,Required in some public spaces,2021-01-01,Europe
+117,Oman,Required in all public spaces,2021-01-01,Asia
+118,Pakistan,Required at all times,2021-01-01,Asia
+119,Palestine,Recommended,2021-01-01,Asia
+120,Panama,Required at all times,2021-01-01,North America
+121,Papua New Guinea,Required in all public spaces,2021-01-01,Oceania
+122,Paraguay,Required in all public spaces,2021-01-01,South America
+123,Peru,Required at all times,2021-02-23,South America
+124,Philippines,Required at all times,2021-02-22,Asia
+125,Poland,Required in some public spaces,2021-01-12,Europe
+126,Portugal,Required in all public spaces,2021-01-01,Europe
+127,Qatar,Required at all times,2021-02-03,Asia
+128,Romania,Required at all times,2021-01-01,Europe
+129,Russia,Required in some public spaces,2021-01-01,Europe
+130,Rwanda,Required at all times,2021-02-23,Africa
+131,San Marino,Required in all public spaces,2021-01-01,Europe
+132,Saudi Arabia,Required in all public spaces,2021-01-01,Asia
+133,Senegal,Required at all times,2021-03-02,Africa
+134,Serbia,Required in all public spaces,2021-01-01,Europe
+135,Seychelles,Required in some public spaces,2021-01-06,Africa
+136,Sierra Leone,Required in all public spaces,2021-01-01,Africa
+137,Singapore,Required at all times,2021-01-01,Asia
+138,Slovakia,Required at all times,2021-01-01,Europe
+139,Slovenia,Required at all times,2021-01-01,Europe
+140,Solomon Islands,Required at all times,2021-01-01,Oceania
+141,Somalia,Required in all public spaces,2021-03-01,Africa
+142,South Africa,Required in all public spaces,2021-01-01,Africa
+143,South Korea,Required in all public spaces,2021-01-01,Asia
+144,South Sudan,Required in some public spaces,2021-01-01,Africa
+145,Spain,Required at all times,2021-01-01,Europe
+146,Sudan,Recommended,2021-01-01,Africa
+147,Suriname,Required at all times,2021-01-01,South America
+148,Sweden,Required in some public spaces,2021-02-17,Europe
+149,Switzerland,Required in all public spaces,2021-01-01,Europe
+150,Syria,Required in some public spaces,2021-01-01,Asia
+151,Taiwan,Required in some public spaces,2021-01-01,Asia
+152,Tajikistan,Required in all public spaces,2021-01-01,Asia
+153,Tanzania,Recommended,2021-02-16,Africa
+154,Thailand,Required in some public spaces,2021-01-16,Asia
+155,Timor,Required at all times,2021-03-02,Asia
+156,Togo,Required at all times,2021-01-01,Africa
+157,Trinidad and Tobago,Required at all times,2021-01-01,North America
+158,Tunisia,Required at all times,2021-01-01,Africa
+159,Turkey,Required at all times,2021-01-01,Asia
+160,Uganda,Required in all public spaces,2021-01-19,Africa
+161,Ukraine,Required in some public spaces,2021-01-01,Europe
+162,United Arab Emirates,Required in all public spaces,2021-01-01,Asia
+163,United Kingdom,Required in all public spaces,2021-01-01,Europe
+164,United States,Required at all times,2021-01-01,North America
+165,Uruguay,Required in some public spaces,2021-01-01,South America
+166,Uzbekistan,Required in all public spaces,2021-01-01,Asia
+167,Vanuatu,No measures,2021-01-01,Oceania
+168,Venezuela,Required at all times,2021-01-01,South America
+169,Vietnam,Required in all public spaces,2021-01-01,Asia
+170,Yemen,Recommended,2021-01-01,Asia
+171,Zambia,Required in all public spaces,2021-01-01,Africa
+172,Zimbabwe,Required in all public spaces,2021-01-01,Africa

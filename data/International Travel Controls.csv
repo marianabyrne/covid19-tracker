@@ -1,0 +1,174 @@
+,Entity,International Travel Controls,Day,continent
+0,Albania,Ban on high-risk regions,2021-01-01,Europe
+1,Algeria,Total border closure,2021-01-01,Africa
+2,Andorra,Quarantine from high-risk regions,2021-01-26,Europe
+3,Angola,Ban on high-risk regions,2021-01-19,Africa
+4,Argentina,Ban on high-risk regions,2021-01-01,South America
+5,Australia,Total border closure,2021-01-01,Oceania
+6,Austria,Ban on high-risk regions,2021-01-01,Europe
+7,Azerbaijan,Total border closure,2021-01-01,Asia
+8,Bahamas,Screening,2021-01-01,North America
+9,Bahrain,Screening,2021-01-01,Asia
+10,Bangladesh,Quarantine from high-risk regions,2021-01-26,Asia
+11,Barbados,Quarantine from high-risk regions,2021-01-01,North America
+12,Belarus,Total border closure,2021-01-01,Europe
+13,Belgium,Ban on high-risk regions,2021-01-01,Europe
+14,Belize,Screening,2021-01-01,North America
+15,Benin,Total border closure,2021-02-09,Africa
+16,Bermuda,Quarantine from high-risk regions,2021-01-01,North America
+17,Bhutan,Ban on high-risk regions,2021-01-01,Asia
+18,Bolivia,Screening,2021-01-29,South America
+19,Bosnia and Herzegovina,Screening,2021-01-01,Europe
+20,Botswana,Screening,2021-01-04,Africa
+21,Brazil,Screening,2021-01-01,South America
+22,Brunei,Total border closure,2021-03-01,Asia
+23,Bulgaria,Ban on high-risk regions,2021-01-01,Europe
+24,Burkina Faso,Screening,2021-01-01,Africa
+25,Burundi,No measures,2021-02-23,Africa
+26,Cambodia,Quarantine from high-risk regions,2021-01-01,Asia
+27,Cameroon,Screening,2021-01-01,Africa
+28,Canada,Total border closure,2021-01-01,North America
+29,Central African Republic,Quarantine from high-risk regions,2021-01-01,Africa
+30,Chad,Quarantine from high-risk regions,2021-01-01,Africa
+31,Chile,Ban on high-risk regions,2021-01-01,South America
+32,China,Ban on high-risk regions,2021-01-01,Asia
+33,Colombia,Total border closure,2021-01-01,South America
+34,Congo,Quarantine from high-risk regions,2021-01-01,Africa
+35,Costa Rica,Screening,2021-01-01,North America
+36,Cote d'Ivoire,Total border closure,2021-02-08,Africa
+37,Croatia,Ban on high-risk regions,2021-01-01,Europe
+38,Cuba,Quarantine from high-risk regions,2021-01-10,North America
+39,Cyprus,Ban on high-risk regions,2021-01-01,Europe
+40,Czechia,Ban on high-risk regions,2021-01-01,Europe
+41,Democratic Republic of Congo,Screening,2021-01-01,Africa
+42,Denmark,Total border closure,2021-01-09,Europe
+43,Djibouti,Screening,2021-01-01,Africa
+44,Dominican Republic,Ban on high-risk regions,2021-01-01,North America
+45,Ecuador,Screening,2021-01-01,South America
+46,Egypt,Screening,2021-01-01,Africa
+47,El Salvador,Ban on high-risk regions,2021-01-25,North America
+48,Eritrea,Total border closure,2021-01-01,Africa
+49,Estonia,Ban on high-risk regions,2021-01-01,Europe
+50,Eswatini,Screening,2021-01-01,Africa
+51,Ethiopia,Quarantine from high-risk regions,2021-01-01,Africa
+52,Faeroe Islands,Quarantine from high-risk regions,2021-01-01,Europe
+53,Fiji,Ban on high-risk regions,2021-01-01,Oceania
+54,Finland,Ban on high-risk regions,2021-01-01,Europe
+55,France,Ban on high-risk regions,2021-01-01,Europe
+56,Gabon,Ban on high-risk regions,2021-01-01,Africa
+57,Gambia,Quarantine from high-risk regions,2021-01-12,Africa
+58,Georgia,Quarantine from high-risk regions,2021-02-05,Asia
+59,Germany,Ban on high-risk regions,2021-01-01,Europe
+60,Ghana,Total border closure,2021-03-07,Africa
+61,Greece,Ban on high-risk regions,2021-01-01,Europe
+62,Greenland,Total border closure,2021-01-05,North America
+63,Guatemala,Quarantine from high-risk regions,2021-01-01,North America
+64,Guinea,Quarantine from high-risk regions,2021-03-09,Africa
+65,Guyana,Ban on high-risk regions,2021-02-02,South America
+66,Haiti,Quarantine from high-risk regions,2021-01-01,North America
+67,Honduras,Ban on high-risk regions,2021-01-01,North America
+68,Hong Kong,Ban on high-risk regions,2021-01-01,Asia
+69,Hungary,Total border closure,2021-01-01,Europe
+70,Iceland,Ban on high-risk regions,2021-01-01,Europe
+71,India,Ban on high-risk regions,2021-01-01,Asia
+72,Indonesia,Ban on high-risk regions,2021-01-01,Asia
+73,Iran,Ban on high-risk regions,2021-01-01,Asia
+74,Iraq,Screening,2021-03-10,Asia
+75,Ireland,Ban on high-risk regions,2021-01-01,Europe
+76,Israel,Total border closure,2021-01-01,Asia
+77,Italy,Ban on high-risk regions,2021-01-01,Europe
+78,Jamaica,Quarantine from high-risk regions,2021-01-01,North America
+79,Japan,Total border closure,2021-01-01,Asia
+80,Jordan,Ban on high-risk regions,2021-01-01,Asia
+81,Kazakhstan,Ban on high-risk regions,2021-01-01,Asia
+82,Kenya,Screening,2021-01-01,Africa
+83,Kosovo,Quarantine from high-risk regions,2021-01-16,Europe
+84,Kuwait,Total border closure,2021-02-02,Asia
+85,Kyrgyzstan,Ban on high-risk regions,2021-01-04,Asia
+86,Laos,Quarantine from high-risk regions,2021-02-16,Asia
+87,Latvia,Ban on high-risk regions,2021-01-01,Europe
+88,Lebanon,Total border closure,2021-02-09,Asia
+89,Lesotho,Ban on high-risk regions,2021-03-01,Africa
+90,Liberia,Screening,2021-01-01,Africa
+91,Libya,Ban on high-risk regions,2021-01-01,Africa
+92,Lithuania,Quarantine from high-risk regions,2021-01-01,Europe
+93,Luxembourg,Screening,2021-03-02,Europe
+94,Macao,Ban on high-risk regions,2021-01-01,Asia
+95,Madagascar,Ban on high-risk regions,2021-01-01,Africa
+96,Malawi,Screening,2021-01-17,Africa
+97,Malaysia,Ban on high-risk regions,2021-01-01,Asia
+98,Mali,Screening,2021-01-01,Africa
+99,Malta,Ban on high-risk regions,2021-01-01,Europe
+100,Mauritania,Screening,2021-02-23,Africa
+101,Mauritius,Ban on high-risk regions,2021-01-05,Africa
+102,Mexico,Screening,2021-01-01,North America
+103,Moldova,Ban on high-risk regions,2021-01-01,Europe
+104,Monaco,Quarantine from high-risk regions,2021-01-01,Europe
+105,Mongolia,Total border closure,2021-01-01,Asia
+106,Morocco,Ban on high-risk regions,2021-01-01,Africa
+107,Mozambique,Screening,2021-01-01,Africa
+108,Myanmar,Total border closure,2021-01-01,Asia
+109,Namibia,Screening,2021-01-01,Africa
+110,Nepal,Quarantine from high-risk regions,2021-01-20,Asia
+111,Netherlands,Ban on high-risk regions,2021-01-01,Europe
+112,New Zealand,Total border closure,2021-01-01,Oceania
+113,Nicaragua,Screening,2021-01-01,North America
+114,Niger,Quarantine from high-risk regions,2021-01-01,Africa
+115,Nigeria,Quarantine from high-risk regions,2021-01-01,Africa
+116,Norway,Ban on high-risk regions,2021-01-29,Europe
+117,Oman,Ban on high-risk regions,2021-01-18,Asia
+118,Pakistan,Screening,2021-01-20,Asia
+119,Palestine,Total border closure,2021-01-18,Asia
+120,Panama,Ban on high-risk regions,2021-03-13,North America
+121,Papua New Guinea,Quarantine from high-risk regions,2021-01-01,Oceania
+122,Paraguay,Screening,2021-01-01,South America
+123,Peru,Quarantine from high-risk regions,2021-01-01,South America
+124,Philippines,Ban on high-risk regions,2021-01-12,Asia
+125,Poland,Ban on high-risk regions,2021-01-01,Europe
+126,Portugal,Ban on high-risk regions,2021-01-01,Europe
+127,Qatar,Quarantine from high-risk regions,2021-01-01,Asia
+128,Romania,Ban on high-risk regions,2021-01-01,Europe
+129,Russia,Ban on high-risk regions,2021-01-01,Europe
+130,Rwanda,Quarantine from high-risk regions,2021-01-01,Africa
+131,San Marino,Screening,2021-02-11,Europe
+132,Saudi Arabia,Ban on high-risk regions,2021-01-12,Asia
+133,Senegal,Screening,2021-03-02,Africa
+134,Serbia,Screening,2021-01-01,Europe
+135,Seychelles,Screening,2021-01-14,Africa
+136,Sierra Leone,Screening,2021-01-01,Africa
+137,Singapore,Ban on high-risk regions,2021-01-01,Asia
+138,Slovakia,Quarantine from high-risk regions,2021-01-01,Europe
+139,Slovenia,Quarantine from high-risk regions,2021-01-01,Europe
+140,Solomon Islands,Ban on high-risk regions,2021-01-01,Oceania
+141,Somalia,Quarantine from high-risk regions,2021-03-02,Africa
+142,South Africa,Screening,2021-01-01,Africa
+143,South Korea,Ban on high-risk regions,2021-01-01,Asia
+144,South Sudan,Quarantine from high-risk regions,2021-01-01,Africa
+145,Spain,Ban on high-risk regions,2021-01-01,Europe
+146,Sudan,Quarantine from high-risk regions,2021-01-13,Africa
+147,Suriname,Total border closure,2021-01-19,South America
+148,Sweden,Ban on high-risk regions,2021-01-01,Europe
+149,Switzerland,Ban on high-risk regions,2021-01-01,Europe
+150,Syria,Screening,2021-02-16,Asia
+151,Taiwan,Ban on high-risk regions,2021-01-01,Asia
+152,Tajikistan,Ban on high-risk regions,2021-01-01,Asia
+153,Tanzania,Screening,2021-01-01,Africa
+154,Thailand,Quarantine from high-risk regions,2021-01-01,Asia
+155,Timor,Total border closure,2021-01-01,Asia
+156,Togo,Total border closure,2021-03-01,Africa
+157,Trinidad and Tobago,Total border closure,2021-01-01,North America
+158,Tunisia,Quarantine from high-risk regions,2021-03-08,Africa
+159,Turkey,Ban on high-risk regions,2021-01-15,Asia
+160,Uganda,Screening,2021-01-01,Africa
+161,Ukraine,Quarantine from high-risk regions,2021-01-01,Europe
+162,United Arab Emirates,Quarantine from high-risk regions,2021-01-01,Asia
+163,United Kingdom,Ban on high-risk regions,2021-01-01,Europe
+164,United States,Ban on high-risk regions,2021-01-01,North America
+165,Uruguay,Total border closure,2021-01-01,South America
+166,Uzbekistan,Ban on high-risk regions,2021-01-01,Asia
+167,Vanuatu,Total border closure,2021-01-01,Oceania
+168,Venezuela,Total border closure,2021-01-01,South America
+169,Vietnam,Total border closure,2021-01-01,Asia
+170,Yemen,Ban on high-risk regions,2021-01-09,Asia
+171,Zambia,Screening,2021-01-01,Africa
+172,Zimbabwe,Screening,2021-01-18,Africa
