@@ -56,7 +56,7 @@ def Navbar(page = 'tracker'):
             children=[
                 dbc.NavItem(dbc.NavLink(html.H4(children = 'Tracker',
                             style = navbarcurrentpage), href="/tracker")),
-                dbc.NavItem(dbc.NavLink(html.H4(children ="Policy Response", style = {'font_family':'Arial'}), href="https://covid19-policy-response.herokuapp.com/"))
+                dbc.NavItem(dbc.NavLink(html.H4(children ="Policy Response", style = {'font_family':'Arial'}), href="https://covid19-policy-responses.herokuapp.com/"))
             ],
             sticky="top",
             className='col-8'
@@ -67,7 +67,7 @@ def Navbar(page = 'tracker'):
         dbc.NavbarSimple(
             children=[
                 dbc.NavItem(dbc.NavLink(html.H4(children = 'Tracker', style = {'font_family':'Arial'}), href="/tracker")),
-                dbc.NavItem(dbc.NavLink(html.H4(children ="Policy Response", style = navbarcurrentpage), href="https://covid19-policy-response.herokuapp.com/"))
+                dbc.NavItem(dbc.NavLink(html.H4(children ="Policy Response", style = navbarcurrentpage), href="https://covid19-policy-responses.herokuapp.com/"))
             ],
             sticky="top",
             className = 'col-8'
