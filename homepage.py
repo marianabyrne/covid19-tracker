@@ -54,6 +54,9 @@ about_app = html.Div(
         html.P('''
         Per Capita numbers are number / Population * 100,000 
         ''', style = {'font_family':'Arial'}),
+        html.P('''
+        To go back to the Policy Responses tab just click on the back arrow of the browser 
+        ''', style = {'font_family':'Arial'}),
     ],
 )
 
