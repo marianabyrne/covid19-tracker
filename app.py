@@ -40,12 +40,12 @@ app.layout = html.Div([
     html.Div(id='page-content')
 ])
 
-# @app.callback(
-#     Output('page-content', 'children'),
-#     [Input('url', 'pathname')])
-# def display_page(pathname):
-#     if pathname != '/response':
-#         return Homepage()
+@app.callback(
+    Output('page-content', 'children'),
+    [Input('url', 'pathname')])
+def display_page(pathname):
+    if pathname == 'https://covid19-policy-response.herokuapp.com/':
+        return 'https://covid19-policy-response.herokuapp.com/'
 #     else:
 #         return PolResponse()
 
